@@ -1,2 +1,2 @@
 # Image-Inpainting
-Reconstruction of a distorted Image using OPENCV in Python
+Details are given in IMAGE INPAINTING.pdf file, Please do visit eveything is mention in simple language
